@@ -1,0 +1,6 @@
+<!--index.wxml-->
+
+  <view class="title">hello {{world}}</view>
+  <image class="img" src="/image/ChatGPTImage20250825-01_56_50.jpg" mode="aspectFit"></image>
+  <button type="primary" bindtap="onTap">点击</button>
+

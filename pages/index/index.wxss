@@ -1,0 +1,13 @@
+/**index.wxss**/
+.title {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 30rpx;
+}
+.img {
+  width: 800rpx;
+  height: 300rpx;
+  margin-bottom: 30rpx;
+}
+
